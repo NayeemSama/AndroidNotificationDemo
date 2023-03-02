@@ -1,0 +1,86 @@
+{
+  "project_info": {
+    "project_number": "265840844801",
+    "project_id": "dialavet-926ca",
+    "storage_bucket": "dialavet-926ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:265840844801:android:091b60cad7b9c7930d2000",
+        "android_client_info": {
+          "package_name": "com.dialavet.dialavet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "265840844801-6tvnb3jqogsjrrjlq888ndh6j7d15bhc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dialavet.dialavet",
+            "certificate_hash": "d8124acf97361b793baa0cb8b1af4a03cba9846b"
+          }
+        },
+        {
+          "client_id": "265840844801-9r69alb3p4nmdfeac0jiksl77p9kpv4n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dialavet.dialavet",
+            "certificate_hash": "7bd9caa8d9f0aad6c6a3a5e7745f4c9cd12c4359"
+          }
+        },
+        {
+          "client_id": "265840844801-cah89capttf28hcr3nb285q0a9lfir0i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dialavet.dialavet",
+            "certificate_hash": "732b1dbac4d4ba1c29fa55063874371d402be73b"
+          }
+        },
+        {
+          "client_id": "265840844801-njeanmr9mra8jldur6kokp1s825g83jc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dialavet.dialavet",
+            "certificate_hash": "ac75376e4dc9f312d8e3e11820c98f80b51324d2"
+          }
+        },
+        {
+          "client_id": "265840844801-ttdda489nedafdio88spge7hi7sdd63e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dialavet.dialavet",
+            "certificate_hash": "3c3fd40b89964cf2b8902f1b05e94c606b01f9a0"
+          }
+        },
+        {
+          "client_id": "265840844801-s76nok0lpad4oa36b0milbo4lgn464l7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbHd9DqhSysScUXzCIvwqhLA5iqKgnmYw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "265840844801-s76nok0lpad4oa36b0milbo4lgn464l7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "265840844801-c34cndcrufalcaceaauibb7r9m5ti2a0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dialavet"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
